@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Manoj👋🏻👨🏻‍💻</h1>
+<ul>
+  <li>Full Stack Web Developer</li><li>Currently Learning MERN Stack</li>
+  </ul>
+  <br>
+  <h1>Skills</h1>
 
-<!--
-**amnishad0512/amnishad0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| FRONT-END | BACK-END | 
+| :---:         |     :---:      |    
+| HTML   | Express     |
+| CSS    | Node.js       | 
+| JavaScript    | MySQL       | 
+| Bootstrap    | MongoDB       | 
+| React.js    |       | 
+| Redux    |         |
+| jQuery    |           |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                  
