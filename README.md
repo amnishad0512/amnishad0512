@@ -3,11 +3,11 @@
   <li>Full Stack Web Developer</li><li>Currently Learning MERN Stack</li>
   </ul>
   <br>
-  ### 🧧 Connect with me:
+<div><img width="60px" src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/linkedin.png" />
+<img  width="59px" src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/gmail.png" />
+<img  width="60px" src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/instagram.png" /></div>
 
-[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
-[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
-[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://iconscout.com/3d/linkedin-4703921" />][twitter]
+<br>
   <h1>Skills</h1>
 
 | FRONT-END | BACK-END | 
