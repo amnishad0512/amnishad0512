@@ -20,6 +20,5 @@
 | Redux    |         |
 | jQuery    |           |
 
-c C++ Java NetBeans Python Pycharm Git GitHub linux oracle Google Colab Jupyter Spyder Numpy Pandas OpenCV Pytorch scikit_learn tensorflow
 
                                   
