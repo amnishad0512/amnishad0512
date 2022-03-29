@@ -3,7 +3,8 @@
   <li>Full Stack Web Developer</li><li>Currently Learning MERN Stack</li>
   </ul>
   <br>
-
+ <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/linkedin.png" alt="bootstrap" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/gmail.png" alt="bootstrap" width="40" height="40"/> </a></p>
 
 <br>
   <h3 align="left">Languages and Tools:</h3>
