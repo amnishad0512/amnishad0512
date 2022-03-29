@@ -3,22 +3,14 @@
   <li>Full Stack Web Developer</li><li>Currently Learning MERN Stack</li>
   </ul>
   <br>
-<div><img width="60px" src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/linkedin.png" />
-<img  width="59px" src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/gmail.png" />
-<img  width="60px" src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/instagram.png" /></div>
+
 
 <br>
-  <h1>Skills</h1>
+  <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/html.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/css3.png" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/javascript.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/react.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/redux.png" alt="bootstrap" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/jquery.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/node.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/express.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/mongodb.png" alt="bootstrap" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/github (2).png" alt="bootstrap" width="40" height="40"/> </a> </p>
+  
 
-| FRONT-END | BACK-END | 
-| :---:         |     :---:      |    
-| HTML   | Express     |
-| CSS    | Node.js       | 
-| JavaScript    | MySQL       | 
-| Bootstrap    | MongoDB       | 
-| React.js    |       | 
-| Redux    |         |
-| jQuery    |           |
+
 
 
                                   
