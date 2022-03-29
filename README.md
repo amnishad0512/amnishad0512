@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Manoj Kumar Nishad](https://danielcaballero.herokuapp.com)! 
 <ul>
-  <li>Full Stack Web Developer</li><li>Currently Learning MERN Stack</li>
+  <li>I'm currently learning MERN Stack Web Development.</li>  <li>I'm passionate about Web Dev & I enjoy learning new things.</li><li>You can email me at <a href="">amnishad0512@gmail.com</a>, I'll try to respond as soon as possible!</li><li>You can check my <a href="">Resume</a> for more details about work experience.</li>
   </ul>
   <br>
  <h3 align="left">Connect with me:</h3>
