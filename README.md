@@ -13,6 +13,18 @@
  </p>
  
 <h3>Git Activeness :</h3>
+
+<p align="left"><img
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=amnishad0512&theme=dark&hide_border=true&show_icons=true&locale=en&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" width="400"
+                alt="amnishad0512" /></p>
+
+<p align="left">&nbsp;<img align="center"
+                src="https://github-readme-stats.vercel.app/api?username=amnishad0512&theme=dark&hide_border=true&show_icons=true&locale=en&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
+                alt="amnishad0512" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnishad0512&theme=dark&hide_border=true&show_icons=true&locale=en&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
+                alt="amnishad0512" /></p>
+                
 <a href="https://github.com/amnishad0512">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amnishad0512&show_icons=true&theme=github_dark&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnishad0512&layout=compact&theme=dark&title_color=2b6fca&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/> <br/>
