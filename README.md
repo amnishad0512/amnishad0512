@@ -1,7 +1,8 @@
 ## Hello, I'm __[Manoj Kumar Nishad](https://amnishad.netlify.app/)__!
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=netlify&logoColor=white)](https://amnishad.netlify.app/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512/)  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto: amnishad0512@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512/)
+<a href="mailto:amnishad0512@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
 [![Resume](https://img.shields.io/badge/-Resume-goldenrod?style=flat&logo=appveyor&logoColor=white)](https://www.linkedin.com/in/amnishad0512/)
 
 <h3>About Me :</h3>
