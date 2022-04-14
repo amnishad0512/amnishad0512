@@ -3,7 +3,7 @@
 <a href="https://amnishad.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=netlify&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/amnishad0512/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:amnishad0512@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1IhzuAl6Lcp5Z1Vs2xFRfYBlXkX0PYbH1/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-goldenrod?style=flat&logo=appveyor&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1Z_VMxxzo6sHJCF2lfKjYkn3Xrhevtb9x/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-goldenrod?style=flat&logo=appveyor&logoColor=white"/></a>
 
 <h3>About Me :</h3>
 <ul>
