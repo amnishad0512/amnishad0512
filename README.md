@@ -1,32 +1,92 @@
-## Hello, I'm __[Manoj Kumar Nishad](https://amnishad.netlify.app/)__!
+# Hi, I'm Manoj Kumar Nishad  
 
-<a href="https://amnishad.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=netlify&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/amnishad0512/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:amnishad0512@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://drive.google.com/drive/folders/1J46SBCvM0BE-qe_o-M4K3ZTCXUzY7iMh?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-goldenrod?style=flat&logo=appveyor&logoColor=white"/></a>
+**Frontend Developer | React.js | Next.js | JavaScript | TypeScript | Node.js | Express.js | MongoDB**  
 
-<h3>About Me :</h3>
-<ul>
-  <li>Software Engineer at InspironLabs .</li> <li>Capable of using ReactJS, Redux, and CSS on the frontend.</li><li>NodeJS, MongoDB, and Express on the backend to build single-page applications.</li> <li>Seeking opportunities to work in a challenging environments and push my boundaries.</li><li>I'm passionate about Web Dev & I enjoy learning new things.</li><li>You can email me at <a href="mailto:amnishad0512@gmail.com" target="_blank">amnishad0512@gmail.com</a>, I'll try to respond as soon as possible!</li><li>You can check my <a href="https://drive.google.com/drive/folders/1J46SBCvM0BE-qe_o-M4K3ZTCXUzY7iMh?usp=sharing" target="_blank">Resume</a> for more details about work experience.</li>
-  </ul>
-  <h3>Languages and Tools :</h3>
-<p align="left"> <a href="https://html.com/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/html.png" alt="HTML" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/css3.png" alt="css3" width="40" height="40"/> </a>&nbsp;<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/javascript.png" alt="JS" width="40" height="40"/> </a>&nbsp; <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/react.png" alt="React" width="40" height="40"/></a>&nbsp;<a href="https://redux.js.org/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/redux.png" alt="Redux" width="40" height="40"/> </a>&nbsp;<a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/jquery.png" alt="bootstrap" width="40" height="40"/> </a>&nbsp; <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/bootstrap.png" alt="jQuery" width="40" height="40"/> </a>&nbsp;<a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/node.png" alt="Node" width="40" height="40"/> </a>&nbsp;<a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/express.png" alt="Express" width="40" height="40"/> </a>&nbsp; <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/mongodb.png" alt="MongoDB" width="40" height="40"/> </a>&nbsp;<a href="https://github.com/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/github (2).png" alt="Github" width="40" height="40"/> </a>&nbsp;<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/amnishad0512/amnishad0512/blob/master/assets/img/vs.png" alt="vscode" width="40" height="40"/> </a>
- </p>
- 
-<h3>Git Activeness :</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-red?style=flat&logo=netlify&logoColor=white)](https://manojnishad.com/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512) &nbsp;
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:amnishad0512@gmail.com) &nbsp;
+[![Resume](https://img.shields.io/badge/Resume-View-goldenrod?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/16mU1DaBggI0eQ_eiHWzHU5-K503_4uei?usp=sharing)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amnishad0512&theme=dark&hide_border=true&show_icons=true&locale=en&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" width="300"
-                alt="amnishad0512" /><br/>
-<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=amnishad0512&theme=dark&hide_border=true&show_icons=true&locale=en&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
-                alt="amnishad0512" /></p><br/>
+---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnishad0512&theme=dark&hide_border=true&show_icons=true&locale=en&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"
-                alt="amnishad0512" /><br/><br/><br/> <img src="https://activity-graph.herokuapp.com/graph?username=amnishad0512&theme=dark&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=false&hide_border=true"><br>
-</a></p>
-                
- 
+## About Me  
+I am a **Frontend Developer** with 3.5 years of experience building high-performance and scalable web applications.  
+I specialize in **React.js, Next.js, TypeScript, and modern UI frameworks** while also having working knowledge of **Node.js, Express.js, and MongoDB**.  
 
+- Strong expertise in **state management** (Redux Toolkit, MobX, Context API).  
+- Experience with **enterprise-level Single Sign-On (SSO)** integrations using Azure AD, Okta, and ForgeRock.  
+- Skilled in **performance optimization**: code splitting, lazy loading, caching, and bundle size reduction.  
+- Delivered **responsive, accessible, and pixel-perfect UIs** using Tailwind CSS, Material UI, Styled Components, and SASS.  
+- Collaborative experience in **Agile/Scrum teams** and mentoring junior developers.  
 
+---
 
-                                  
+## Skills  
+
+**Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, Redux, Redux Toolkit, Context API, React Router, React Query  
+**UI / Styling:** Tailwind CSS, Material UI, Bootstrap, SCSS/SASS, Styled Components, Responsive Design, Accessibility (WCAG)  
+**Backend (Working Knowledge):** Node.js, Express.js, MongoDB, REST API, JWT, CRUD  
+**Tools & Optimization:** Git, GitHub, VS Code, Chrome DevTools, Lighthouse, Web Vitals, Webpack, Vite, ESLint, Prettier  
+
+---
+
+## Professional Work  
+
+### Software Engineer | InspironLabs (Jan 2022 – Sep 2025)  
+- Developed **scalable web applications** using React.js, Next.js, TypeScript, and Material UI.  
+- Implemented **enterprise-level SSO** with Azure AD, Okta, and ForgeRock.  
+- Built reusable authentication middleware and dynamic client registration components.  
+- Applied **Redux Toolkit, MobX, and Context API** for high-performance state management.  
+- Optimized UI with **code splitting, lazy loading, caching**, and bundle size optimization.  
+- Ensured **WCAG-compliant accessibility** and cross-browser support.  
+- Mentored junior developers on React.js and performance best practices.  
+
+---
+
+## Projects  
+
+**DYP & DYD – Multi-IDP SSO Integration**  
+*React.js, MobX, Material UI, OpenID Connect (Azure AD, Okta, ForgeRock)*  
+- Implemented secure multi-IDP authentication with legacy login support.  
+- Integrated third-party tools (SQLPad, JSCAPE, DOMO) via Azure SSO.  
+
+**HTG Auth Client – OpenID SSO Controller**  
+*React.js, Context API, Material UI, Node.js, MongoDB*  
+- Built SSO Controller platform to connect multiple apps with different IDPs.  
+- Developed admin portal for authentication type mapping and secure flows.  
+
+**RealFeel – Real-Time Sentiment Tracking Platform**  
+*Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Node.js, MongoDB*  
+- Built interactive UI with **Mapbox GL** to track and visualize emotions geographically.  
+- Integrated secure REST APIs with Redux Toolkit state management.  
+
+---
+## GitHub Analytics  
+
+### Profile Overview  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amnishad0512&theme=github_dark)  
+
+### Language & Repo Insights  
+<table>
+<tr>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amnishad0512&theme=github_dark" height="180" /></td>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amnishad0512&theme=github_dark" height="180" /></td>
+</tr>
+</table>
+
+### Stats & Productivity  
+<table>
+<tr>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amnishad0512&theme=github_dark" height="180" /></td>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amnishad0512&theme=github_dark&utcOffset=5.5" height="180" /></td>
+</tr>
+</table>
+
+### Contribution Graph  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amnishad0512&theme=github-dark&hide_border=true)
+
+---
+
+## Achievements  
+- **Shining Star of The Year (2023–24)** – InspironLabs Software System Pvt. Ltd.  
+- Mentored junior developers and improved team delivery through **React.js performance optimization**.  
