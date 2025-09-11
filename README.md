@@ -61,6 +61,13 @@ I specialize in **React.js, Next.js, TypeScript, and modern UI frameworks** whil
 - Integrated secure REST APIs with Redux Toolkit state management.  
 
 ---
+
+## Achievements  
+- **Shining Star of The Year (2023–24)** – InspironLabs Software System Pvt. Ltd.  
+- Mentored junior developers and improved team delivery through **React.js performance optimization**.  
+
+---
+
 ## GitHub Analytics  
 
 ### Profile Overview  
@@ -84,9 +91,3 @@ I specialize in **React.js, Next.js, TypeScript, and modern UI frameworks** whil
 
 ### Contribution Graph  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amnishad0512&theme=github-dark&hide_border=true)
-
----
-
-## Achievements  
-- **Shining Star of The Year (2023–24)** – InspironLabs Software System Pvt. Ltd.  
-- Mentored junior developers and improved team delivery through **React.js performance optimization**.  
