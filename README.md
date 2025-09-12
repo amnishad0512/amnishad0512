@@ -10,7 +10,7 @@
 ---
 
 ## About Me  
-I am a **Frontend Developer** with 3.5 years of experience building high-performance and scalable web applications.  
+I am a **Frontend Developer** with 3.3+ years of experience building high-performance and scalable web applications.  
 I specialize in **React.js, Next.js, TypeScript, and modern UI frameworks** while also having working knowledge of **Node.js, Express.js, and MongoDB**.  
 
 - Strong expertise in **state management** (Redux Toolkit, MobX, Context API).  
