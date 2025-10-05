@@ -2,7 +2,7 @@
 
 **Frontend Developer | React.js | Next.js | JavaScript | TypeScript | Node.js | Express.js | MongoDB**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-red?style=flat&logo=netlify&logoColor=white)](https://manojnishad.com/) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-red?style=flat&logo=netlify&logoColor=white)](https://manojnishad.in/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512) &nbsp;
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:amnishad0512@gmail.com) &nbsp;
 [![Resume](https://img.shields.io/badge/Resume-View-goldenrod?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/16mU1DaBggI0eQ_eiHWzHU5-K503_4uei?usp=sharing)  
