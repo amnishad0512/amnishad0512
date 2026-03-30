@@ -123,10 +123,17 @@ Dec 2020 – Apr 2021
 
 ## Tech Stack
 
-Frontend: React.js, Next.js, TypeScript, JavaScript, React Native, Redux Toolkit, Context API
-UI: Tailwind CSS, Material UI, Styled Components, SASS
-Backend: Node.js, Express.js, MongoDB, REST APIs
-Tools: Git, Webpack, Vite, ESLint, Lighthouse, Web Vitals
+Frontend:
+React.js, Next.js, TypeScript, JavaScript, React Native, Redux Toolkit,
+
+UI:
+Tailwind CSS, Material UI, Styled Components, SASS
+
+Backend:
+Node.js, Express.js, MongoDB, REST APIs
+
+Tools:
+Git, Webpack, Vite, ESLint, Lighthouse, Web Vitals
 
 ---
 
