@@ -1,6 +1,6 @@
 # Hi, I'm Manoj Kumar Nishad  
 
-**Frontend Developer | React.js | Next.js | JavaScript | TypeScript | Node.js | Express.js | MongoDB**  
+**Senior Frontend Developer | React.js | Next.js | TypeScript | JavaScript | React Native**  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-red?style=flat&logo=netlify&logoColor=white)](https://manojnishad.in/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512) &nbsp;
@@ -10,8 +10,8 @@
 ---
 
 ## About Me  
-I am a **Frontend Developer** with 3.3+ years of experience building high-performance and scalable web applications.  
-I specialize in **React.js, Next.js, TypeScript, and modern UI frameworks** while also having working knowledge of **Node.js, Express.js, and MongoDB**.  
+I am a **Senior Frontend Developer** with 3.8+ years of experience building high-performance and scalable web applications.  
+I specialize in **React.js, Next.js, TypeScript, and modern UI frameworks** while also having working knowledge of **React Native, Node.js, Express.js, and MongoDB**.  
 
 - Strong expertise in **state management** (Redux Toolkit, MobX, Context API).  
 - Experience with **enterprise-level Single Sign-On (SSO)** integrations using Azure AD, Okta, and ForgeRock.  
