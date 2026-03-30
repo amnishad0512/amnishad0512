@@ -1,93 +1,148 @@
-# Hi, I'm Manoj Kumar Nishad  
+# 👋 Hi, I'm Manoj Kumar Nishad
 
-**Senior Frontend Developer | React.js | Next.js | TypeScript | JavaScript | React Native**  
+**Senior Frontend Developer | React.js | Next.js | TypeScript | JavaScript | React Native | Node.js | Express.js | MongoDB | Frontend Architecture | Performance Optimization | SSO Systems**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-red?style=flat&logo=netlify&logoColor=white)](https://manojnishad.in/) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512) &nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:amnishad0512@gmail.com) &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-View-goldenrod?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/16mU1DaBggI0eQ_eiHWzHU5-K503_4uei?usp=sharing)  
-
----
-
-## About Me  
-I am a **Senior Frontend Developer** with 3.8+ years of experience building high-performance and scalable web applications.  
-I specialize in **React.js, Next.js, TypeScript, and modern UI frameworks** while also having working knowledge of **React Native, Node.js, Express.js, and MongoDB**.  
-
-- Strong expertise in **state management** (Redux Toolkit, MobX, Context API).  
-- Experience with **enterprise-level Single Sign-On (SSO)** integrations using Azure AD, Okta, and ForgeRock.  
-- Skilled in **performance optimization**: code splitting, lazy loading, caching, and bundle size reduction.  
-- Delivered **responsive, accessible, and pixel-perfect UIs** using Tailwind CSS, Material UI, Styled Components, and SASS.  
-- Collaborative experience in **Agile/Scrum teams** and mentoring junior developers.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-red?style=flat&logo=netlify&logoColor=white)](https://manojnishad.in/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:amnishad0512@gmail.com)  
+[![Resume](https://img.shields.io/badge/Resume-View-goldenrod?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/16mU1DaBggI0eQ_eiHWzHU5-K503_4uei?usp=sharing)
 
 ---
 
-## Skills  
+## 🚀 About Me
 
-**Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, Redux, Redux Toolkit, Context API, React Router, React Query  
-**UI / Styling:** Tailwind CSS, Material UI, Bootstrap, SCSS/SASS, Styled Components, Responsive Design, Accessibility (WCAG)  
-**Backend (Working Knowledge):** Node.js, Express.js, MongoDB, REST API, JWT, CRUD  
-**Tools & Optimization:** Git, GitHub, VS Code, Chrome DevTools, Lighthouse, Web Vitals, Webpack, Vite, ESLint, Prettier  
+Senior Frontend Developer with **3.8+ years of experience** building scalable, high-performance web applications across enterprise and product-based systems.
 
----
+Currently working at **HT Media Group on Shine.com (job portal platform similar to Naukri)**, focusing on improving core user journeys, performance, and product experience across web and mobile.
 
-## Professional Work  
+Strong expertise in **React ecosystem, Next.js, TypeScript, frontend architecture, and performance optimization**, with production experience in **React Native and backend APIs (Node.js, Express, MongoDB)**.
 
-### Software Engineer | InspironLabs (Jan 2022 – Sep 2025)  
-- Developed **scalable web applications** using React.js, Next.js, TypeScript, and Material UI.  
-- Implemented **enterprise-level SSO** with Azure AD, Okta, and ForgeRock.  
-- Built reusable authentication middleware and dynamic client registration components.  
-- Applied **Redux Toolkit, MobX, and Context API** for high-performance state management.  
-- Optimized UI with **code splitting, lazy loading, caching**, and bundle size optimization.  
-- Ensured **WCAG-compliant accessibility** and cross-browser support.  
-- Mentored junior developers on React.js and performance best practices.  
+Actively open to new opportunities.
 
 ---
 
-## Projects  
+## 🧠 Core Expertise
 
-**DYP & DYD – Multi-IDP SSO Integration**  
-*React.js, MobX, Material UI, OpenID Connect (Azure AD, Okta, ForgeRock)*  
-- Implemented secure multi-IDP authentication with legacy login support.  
-- Integrated third-party tools (SQLPad, JSCAPE, DOMO) via Azure SSO.  
-
-**HTG Auth Client – OpenID SSO Controller**  
-*React.js, Context API, Material UI, Node.js, MongoDB*  
-- Built SSO Controller platform to connect multiple apps with different IDPs.  
-- Developed admin portal for authentication type mapping and secure flows.  
-
-**RealFeel – Real-Time Sentiment Tracking Platform**  
-*Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Node.js, MongoDB*  
-- Built interactive UI with **Mapbox GL** to track and visualize emotions geographically.  
-- Integrated secure REST APIs with Redux Toolkit state management.  
+- Designing scalable **frontend architectures for large-scale applications**
+- Building and optimizing **enterprise-grade UI systems (React + Next.js)**
+- Implementing **SSO authentication systems (Azure AD, Okta, ForgeRock)**
+- Improving performance using **lazy loading, code splitting, caching, bundle optimization**
+- Developing **reusable component libraries and design systems**
+- Handling **API integration and complex data-driven UI workflows**
+- Working across **web and mobile (React Native)** platforms
 
 ---
 
-## Achievements  
-- **Shining Star of The Year (2023–24)** – InspironLabs Software System Pvt. Ltd.  
-- Mentored junior developers and improved team delivery through **React.js performance optimization**.  
+## 💼 Work Experience
+
+### 🏢 HT Media Group (Current) — Senior Frontend Developer
+**Oct 2025 – Present**
+
+Worked on **Shine.com candidate platform** focusing on revamping core user journeys.
+
+**Key Contributions:**
+- Redesigned core flows: Login, Registration, Profile, Profile Performance, JSRP, Homepage
+- Converted multi-step registration into **single-page CV-based quick registration**, improving conversion
+- Built scalable UI across **React.js, Next.js, React Native**
+- Integrated REST APIs and optimized production workflows
+- Improved performance using **lazy loading and code splitting**
+- Refactored legacy modules for scalability and maintainability
 
 ---
 
-## GitHub Analytics  
+### 🏢 InspironLabs Software System Pvt. Ltd. — Software Engineer
+**Jun 2022 – Sep 2025**
 
-### Profile Overview  
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amnishad0512&theme=github_dark)  
+**Key Contributions:**
+- Built enterprise applications using **React.js, Next.js, TypeScript, Redux, Material UI, Tailwind CSS**
+- Implemented **SSO authentication (Azure AD, Okta, ForgeRock)** using OpenID Connect
+- Optimized performance with **bundle splitting, caching, lazy loading**
+- Developed accessible UI (WCAG compliant) across enterprise systems
+- Collaborated with backend teams for API integration
+- Mentored junior developers and participated in Agile delivery
 
-### Language & Repo Insights  
-<table>
-<tr>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amnishad0512&theme=github_dark" height="180" /></td>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amnishad0512&theme=github_dark" height="180" /></td>
-</tr>
-</table>
+**Key Projects:**
+- **DYP & DYD – Multi-IDP SSO Integration** (Azure AD, Okta, ForgeRock)
+- **HTG Auth Client – SSO Controller Platform** (Admin portal for authentication mapping)
+- **RealFeel – Emotion Tracking Platform** (Mapbox-based real-time visualization)
 
-### Stats & Productivity  
-<table>
-<tr>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amnishad0512&theme=github_dark" height="180" /></td>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amnishad0512&theme=github_dark&utcOffset=5.5" height="180" /></td>
-</tr>
-</table>
+---
 
-### Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amnishad0512&theme=github-dark&hide_border=true)
+### 🏢 NSEIT Limited — IT Supervisor
+**Dec 2020 – Apr 2021**
+
+- Managed large-scale exam center IT infrastructure (100+ systems)
+- Configured servers, LAN, firewall, and monitoring systems
+- Handled real-time troubleshooting during live operations
+
+---
+
+## 🚀 Featured Projects
+
+### 🟢 Shine.com (HT Media Group)
+- Job & candidate platform (similar to Naukri)
+- Improved UX across login, registration, profile, and job search
+- Built React + React Native scalable frontend system
+
+---
+
+### 🟣 Vendora – Full Stack E-commerce Platform
+- Product listing, cart, checkout, and admin panel
+- Razorpay payment integration
+- PDF invoice generation using Puppeteer
+- Email automation using Resend
+- Built using MERN stack
+
+---
+
+### 🔵 SSO Integration Platform (DYP & DYD)
+- Multi-IDP authentication system
+- Azure AD, Okta, ForgeRock integration
+- Enterprise-level secure login flows
+
+---
+
+### 🟡 HTG Auth Client
+- Centralized SSO controller system
+- Admin portal for authentication configuration
+- React Hook Form + Yup validations
+
+---
+
+### 🔴 RealFeel – Emotion Tracking App
+- Mapbox-based real-time sentiment visualization
+- API-driven emotion tracking system
+- Optimized UI performance
+
+---
+
+## 🏆 Achievements
+
+- ⭐ Shining Star Award (2023–24) – InspironLabs
+- Improved performance of enterprise frontend systems
+- Led UI architecture improvements in multiple production apps
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, React Native, Redux Toolkit, Context API  
+**UI:** Tailwind CSS, Material UI, Styled Components, SASS  
+**Backend:** Node.js, Express.js, MongoDB, REST APIs  
+**Tools:** Git, Webpack, Vite, ESLint, Lighthouse, Web Vitals  
+
+---
+
+## 🎯 Career Goal
+To grow as a **Senior Frontend / Full Stack Engineer** building scalable, high-performance, and user-centric systems in enterprise environments.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://manojnishad.in">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/amnishad0512">💼 LinkedIn</a> •
+  <a href="mailto:amnishad0512@gmail.com">📧 Email</a> •
+  <a href="https://drive.google.com/drive/folders/16mU1DaBggI0eQ_eiHWzHU5-K503_4uei?usp=sharing">📄 Resume</a>
+</p>
