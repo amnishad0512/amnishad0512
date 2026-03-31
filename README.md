@@ -2,7 +2,7 @@
 
 **Senior Frontend Developer | React.js | Next.js | TypeScript | JavaScript | React Native | Node.js | Express.js | MongoDB | Frontend Architecture | Performance Optimization | SSO Systems**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-red?style=flat&logo=netlify&logoColor=white)](https://manojnishad.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512) [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:amnishad0512@gmail.com) [![Resume](https://img.shields.io/badge/Resume-View-goldenrod?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/16mU1DaBggI0eQ_eiHWzHU5-K503_4uei?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-red?style=flat&logo=netlify&logoColor=white)](https://manojnishad.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnishad0512) [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:amnishad0512@gmail.com) [![Resume](https://img.shields.io/badge/Resume-View-goldenrod?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1tGZlepFecqIEvr9_pDUeNpHiS9M8PPqs/view?usp=sharing)
 
 ---
 
@@ -149,5 +149,5 @@ To grow as a Senior Frontend / Full Stack Engineer building scalable, high-perfo
   <a href="https://manojnishad.in">Portfolio</a> •
   <a href="https://www.linkedin.com/in/amnishad0512">LinkedIn</a> •
   <a href="mailto:amnishad0512@gmail.com">Email</a> •
-  <a href="https://drive.google.com/drive/folders/16mU1DaBggI0eQ_eiHWzHU5-K503_4uei?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/1tGZlepFecqIEvr9_pDUeNpHiS9M8PPqs/view?usp=sharing">Resume</a>
 </p>
