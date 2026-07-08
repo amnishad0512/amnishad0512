@@ -10,8 +10,6 @@
 
 Senior Frontend Developer with 3.9 years of experience building scalable, high-performance web applications across enterprise and product-based systems.
 
-Currently working at HT Media Group on Shine.com (job portal platform similar to Naukri), focusing on improving core user journeys, performance, and product experience across web and mobile.
-
 Strong expertise in React ecosystem, Next.js, TypeScript, frontend architecture, and performance optimization, with production experience in React Native and backend APIs (Node.js, Express, MongoDB).
 
 Actively open to new opportunities.
