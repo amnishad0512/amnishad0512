@@ -147,5 +147,5 @@ To grow as a Senior Frontend / Full Stack Engineer building scalable, high-perfo
   <a href="https://manojnishad.in">Portfolio</a> •
   <a href="https://www.linkedin.com/in/amnishad0512">LinkedIn</a> •
   <a href="mailto:amnishad0512@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1tGZlepFecqIEvr9_pDUeNpHiS9M8PPqs/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/drive/folders/1id6mlhEI5aS0eWUDIXRXYHIIxJ-vmCwE?usp=sharing">Resume</a>
 </p>
