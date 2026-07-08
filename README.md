@@ -33,7 +33,7 @@ Actively open to new opportunities.
 ## Work Experience
 
 ### HT Media Group (Current) — Senior Frontend Developer
-Oct 2025 – Present
+Oct 2025 – May 2026
 
 Worked on Shine.com candidate platform focusing on revamping core user journeys.
 
