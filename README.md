@@ -18,13 +18,15 @@ Actively open to new opportunities.
 
 ## Core Expertise
 
-- Designing scalable frontend architectures for large-scale applications
-- Building and optimizing enterprise-grade UI systems (React + Next.js)
-- Implementing SSO authentication systems (Azure AD, Okta, ForgeRock)
-- Improving performance using lazy loading, code splitting, caching, bundle optimization
-- Developing reusable component libraries and design systems
-- Handling API integration and complex data-driven UI workflows
-- Working across web and mobile (React Native) platforms
+- Designed scalable frontend architectures for large-scale applications
+- Built high-performance web applications using React.js and Next.js
+- Developed reusable components and scalable UI systems
+- Implemented SSO and authentication systems (Azure AD, Okta, ForgeRock)
+- Optimized performance through lazy loading, code splitting, caching, and bundle optimization
+- Integrated REST APIs and built complex data-driven UI workflows
+- Developed backend services and APIs using Node.js and Express.js
+- Worked with MongoDB for data storage and backend integration
+- Contributed to frontend and backend development in full-stack applications
 
 ---
 
@@ -122,7 +124,7 @@ Dec 2020 – Apr 2021
 ## Tech Stack
 
 Frontend:
-React.js, Next.js, TypeScript, JavaScript, React Native, Redux Toolkit,
+React.js, Next.js, TypeScript, JavaScript, Redux Toolkit,
 
 UI:
 Tailwind CSS, Material UI, Styled Components, SASS
